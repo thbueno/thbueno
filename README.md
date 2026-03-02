@@ -1,6 +1,6 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Thiago Bueno 👋
 
-📍 **East Asia** | 🎨 **Ex-Advertising, Now Engineering** | ⚡ **Frontend-first, full-stack by necessity**
+📍 Ho Chi Minh City <--> Porto Alegre | 🎨 **Software engineer** | ⚡ **Frontend-first, full-stack by experience**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -12,17 +12,15 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-> I came at engineering from the wrong direction, which turned out to be useful. Years in advertising and art direction first. When I eventually learned to code I realized I'd been doing the same job the whole time, just with less powerful tooling.
+> Most engineers I know either think like engineers or wish they thought more like designers. I came at it from the other direction. Years in advertising and art direction first, helping brands find their footing on a web that nobody fully understood yet, before I learned to code and realized I'd been doing the same job the whole time, just with less powerful tooling.
 
 ---
 
 ## What I Do
 
-Almost ten years in software across tech companies, startups, product studios, and agencies. Frontend is where I spend most of my time, TypeScript as a default rather than a recurring conversation. On the backend I'm comfortable in Node.js and Python, choosing based on the team and the problem rather than habit.
+almost ten years in software since then, across tech companies, startups , product studios, and agencies that ranged from well-funded to extremely optimistic. The advertising background doesn't surface in pull requests, but it shapes every conversation about what something should actually feel like to use, why a flow feels wrong before anyone can explain why, what a product is silently communicating to the person using it.
 
-I've designed systems running sustained loads well above 100k req/s. What that work consistently taught me: performance problems are almost always design problems that got deferred long enough to become somebody else's emergency.
-
-Lately, serious time with applied ML — building RAG pipelines, working with LoRA fine-tuning, going deeper into the Python ecosystem than frontend work usually asks for. Understanding what these tools actually do changes the quality of decisions you make when you're building systems around them.
+Frontend is where I spend most of my time, TypeScript as a default rather than a discussion. On the backend, I'm comfortable in Node.js and Python, and I pick based on the team and the problem rather than preference. I've architected systems running sustained loads above 100k requests per second, and the thing that work drilled into me is that performance problems are almost always design problems that got deferred long enough to become someone else's emergency.
 
 ---
 
@@ -63,11 +61,9 @@ Lately, serious time with applied ML — building RAG pipelines, working with Lo
 
 ## Where I'm Coming From
 
-Long before I wrote a line of code, I was rewinding The Matrix on tape and reading Asimov at midnight. Science fiction rewired how I thought about everything — it mostly still shapes how I see the work.
+Long before I wrote a line of code, I was rewatching The Matrix over and over and reading Asimov in my hometown, Porto Alegre, Brazil. Science fiction rewired how I thought about tech, and it still shapes how I see the future.
 
-The advertising years gave me something engineering school doesn't teach: the instinct that something feels wrong before anyone can explain why, and the sense of what a product is quietly telling the person using it.
-
-Being based in East Asia puts me closer to how a large part of the world actually experiences software. Different hardware constraints, different connectivity assumptions, gestures and patterns that feel natural here and ones that don't. These aren't edge cases from this side, they're just Tuesday — and that changes what you treat as a reasonable default.
+I'm currently based in East Asia, which puts me closer to how a large part of the world actually uses technology. Different hardware constraints, different connectivity assumptions, different gestures that feel natural and ones that don't. These aren't edge cases from here, they're just Tuesday, and that changes what you treat as a default.
 
 ---
 
@@ -82,19 +78,10 @@ Being based in East Asia puts me closer to how a large part of the world actuall
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:you@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/buenothg)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thinobueno)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://buenodev-ecru.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thgbueno@proton.me)
 
 ---
 
-<details>
-<summary>A few things that don't fit anywhere else</summary>
-
-- Started with Asimov, stayed for the actual robots
-- The advertising background doesn't show up in pull requests, but it shapes every conversation about what something should actually feel like to use
-- Run systems across time zones that treat 3am traffic as unremarkable
-- Currently exploring the overlap between ML tooling and product UX, which turns out to be significant
-
-</details>
