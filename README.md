@@ -1,6 +1,6 @@
 # Hey, I'm Thiago Bueno 👋
 
-📍 Ho Chi Minh City <--> Porto Alegre | 🎨 **Software engineer** | ⚡ **Frontend-first, full-stack by experience**
+📍 Ho Chi Minh City - Vietnam | 🎨 **Software engineer** | ⚡ **Frontend-first, full-stack by experience**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -17,8 +17,6 @@
 ---
 
 ## What I Do
-
-almost ten years in software since then, across tech companies, startups , product studios, and agencies that ranged from well-funded to extremely optimistic. The advertising background doesn't surface in pull requests, but it shapes every conversation about what something should actually feel like to use, why a flow feels wrong before anyone can explain why, what a product is silently communicating to the person using it.
 
 Frontend is where I spend most of my time, TypeScript as a default rather than a discussion. On the backend, I'm comfortable in Node.js and Python, and I pick based on the team and the problem rather than preference. I've architected systems running sustained loads above 100k requests per second, and the thing that work drilled into me is that performance problems are almost always design problems that got deferred long enough to become someone else's emergency.
 
@@ -67,14 +65,6 @@ I'm currently based in East Asia, which puts me closer to how a large part of th
 
 ---
 
-## What I Care About
-
-- Systems the next person can understand without a guided tour
-- Pair programming as something that makes both the code and the people in the room sharper
-- The short distance between good architecture and good product thinking
-- Performance as a design problem, not an infrastructure afterthought
-
----
 
 ## Connect
 
