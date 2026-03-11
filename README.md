@@ -53,16 +53,6 @@ I relocated from Brazil to Vietnam two years ago to support my wife's career. Wh
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
----
-
-## Where I'm Coming From
-
-Long before I wrote a line of code, I was rewatching The Matrix over and over and reading Asimov in my hometown, Porto Alegre, Brazil. Science fiction rewired how I thought about tech, and it still shapes how I see the future.
-
-I'm currently based in East Asia, which puts me closer to how a large part of the world actually uses technology. Different hardware constraints, different connectivity assumptions, different gestures that feel natural and ones that don't. These aren't edge cases from here, they're just Tuesday, and that changes what you treat as a default.
-
----
-
 
 ## Connect
 
