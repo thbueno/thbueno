@@ -14,9 +14,10 @@
 
 ---
 
-## Who I am 
+## Who I am
 
 I relocated from Brazil to Vietnam two years ago to support my wife's career. What started as a six-month stay quickly evolved; captivated by the culture, we decided to remain, and Vietnam is now home. For the past 10 years, I’ve specialized in high-scale systems. I spent my early career at startups architecting greenfield projects from scratch and acquiring experience with long-term maintainability, parallel growth, fault tolerance, and other foundational principles. Later, I moved into enterprise environments where my job was inheriting legacy code, then refactoring and optimizing it in the background. My work currently supports infrastructure that handles over 100k requests per second.
+
 ---
 
 ## Stack
