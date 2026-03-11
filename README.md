@@ -1,6 +1,6 @@
 # Hey, I'm Thiago Bueno 👋
 
-📍 Ho Chi Minh City - Vietnam | 🎨 **Software engineer** | ⚡ **Frontend-first, full-stack by experience**
+📍 Ho Chi Minh City - Vietnam | 🎨 **Software engineer** | ⚡ **Full-stack by experience**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -12,14 +12,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-> Most engineers I know either think like engineers or wish they thought more like designers. I came at it from the other direction. Years in advertising and art direction first, helping brands find their footing on a web that nobody fully understood yet, before I learned to code and realized I'd been doing the same job the whole time, just with less powerful tooling.
-
 ---
 
-## What I Do
+## Who I am 
 
-Frontend is where I spend most of my time, TypeScript as a default rather than a discussion. On the backend, I'm comfortable in Node.js and Python, and I pick based on the team and the problem rather than preference. I've architected systems running sustained loads above 100k requests per second, and the thing that work drilled into me is that performance problems are almost always design problems that got deferred long enough to become someone else's emergency.
-
+I relocated from Brazil to Vietnam two years ago to support my wife's career. What started as a six-month stay quickly evolved; captivated by the culture, we decided to remain, and Vietnam is now home. For the past 10 years, I’ve specialized in high-scale systems. I spent my early career at startups architecting greenfield projects from scratch and acquiring experience with long-term maintainability, parallel growth, fault tolerance, and other foundational principles. Later, I moved into enterprise environments where my job was inheriting legacy code, then refactoring and optimizing it in the background. My work currently supports infrastructure that handles over 100k requests per second.
 ---
 
 ## Stack
