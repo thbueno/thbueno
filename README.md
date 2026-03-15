@@ -16,9 +16,9 @@
 
 ## Who I am
 Brazilian → 🌏 Southeast Asia (Relocated 01/2024)
-I’m a Software Engineer from Brazil with 10 years experience in build better systems for government, startups and big enterprises.
+- I’m a Software Engineer from Brazil with 10 years experience in build better systems for government, startups and big enterprises.
 
-**Open to:** Full-time roles in Vietnam, Singapore, Thailand | Remote, hybrid or on-site
+**Open to:** Full-time roles | Remote, hybrid or on-site
 
 ---
 
