@@ -15,7 +15,7 @@
 ---
 
 ## Who I am
-🇧🇷 Brazilian → 🌏 🇻🇳 Southeast Asia (Relocated 01/2024)
+Brazilian → 🌏 Southeast Asia (Relocated 01/2024)
 I’m a Software Engineer from Brazil with 10 years experience in build better systems for government, startups and big enterprises.
 
 **Open to:** Full-time roles in Vietnam, Singapore, Thailand | Remote, hybrid or on-site
@@ -23,7 +23,7 @@ I’m a Software Engineer from Brazil with 10 years experience in build better s
 ---
 
 ## Why Southeast Asia?
-I relocated from Brazil to 🇻🇳 Vietnam two years ago to support my fiancée career. What started as temporary quickly evolved; captivated by the culture, we decided to stay, and Vietnam is now our home.
+I relocated from Brazil to Vietnam two years ago to support my fiancée career. What started as temporary quickly evolved; captivated by the culture, we decided to stay, and Vietnam is now our home.
 
 ## Stack
 
