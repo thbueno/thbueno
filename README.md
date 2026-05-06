@@ -6,7 +6,7 @@
 
 
 ### About me
-I’m a Software Engineer from Brazil with 10 years experience in build better systems and products from sub 5 people startups to big enterprises - as a consultant, employee, and founder.
+I’m a Software Engineer with 10 years' experience building systems and products, from startups of fewer than five people to large enterprises, working as a consultant, employee, and founder.
 
 🏅 **Highlights**
 - ✅ Solved **1k+ coding problems** on LeetCode
