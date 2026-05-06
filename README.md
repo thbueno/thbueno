@@ -1,11 +1,12 @@
-# Hey, I'm Thiago Bueno 👋
+## Hey, There I’m Thiago Bueno 👋
 
  🎨 **Senior Software Engineer** | ⚡ **Full-stack by experience**
 
 ---
 
-## Who I am
-- I’m a Software Engineer from Brazil with 10 years experience in build better systems for government, startups and big enterprises.
+
+### About me
+I’m a Software Engineer from Brazil with 10 years experience in build better systems and products from sub 5 people startups to big enterprises - as a consultant, employee, and founder.
 
 🏅 **Highlights**
 - ✅ Solved **1k+ coding problems** on LeetCode
