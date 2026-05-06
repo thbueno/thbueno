@@ -1,28 +1,21 @@
 # Hey, I'm Thiago Bueno 👋
 
- 🎨 **Software engineer** | ⚡ **Full-stack by experience**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+ 🎨 **Senior Software Engineer** | ⚡ **Full-stack by experience**
 
 ---
 
 ## Who I am
 - I’m a Software Engineer from Brazil with 10 years experience in build better systems for government, startups and big enterprises.
 
-**Open to:** Full-time roles | Remote, hybrid or on-site
+🏅 **Highlights**
+- ✅ Solved **1k+ coding problems** on LeetCode
+- 💼 Worked on **20+ live projects** across various technologies
+- 🔧 Built scalable systems designed to handle real-world load
+- 💻 Full-stack background with experience across frontend, backend, and databases
+- 🌟 Building **scalable full-stack applications** at Esthalo
+
 
 ---
-
-## Why Southeast Asia?
-I relocated from Brazil to Vietnam two years ago to support my fiancée career. What started as temporary quickly evolved; captivated by the culture, we decided to stay, and Vietnam is now our home.
 
 ## Stack
 
