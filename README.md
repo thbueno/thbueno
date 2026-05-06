@@ -1,6 +1,6 @@
 # Hey, I'm Thiago Bueno 👋
 
-📍 Ho Chi Minh City - Vietnam | 🎨 **Software engineer** | ⚡ **Full-stack by experience**
+ 🎨 **Software engineer** | ⚡ **Full-stack by experience**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -15,7 +15,6 @@
 ---
 
 ## Who I am
-Brazilian → 🌏 Southeast Asia (Relocated 01/2024)
 - I’m a Software Engineer from Brazil with 10 years experience in build better systems for government, startups and big enterprises.
 
 **Open to:** Full-time roles | Remote, hybrid or on-site
