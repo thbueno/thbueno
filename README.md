@@ -1,4 +1,4 @@
-## Hey, There I’m Thiago Bueno 👋
+## Hey There, I’m Thiago Bueno 👋
 
  🎨 **Senior Software Engineer** | ⚡ **Full-stack by experience**
 
